@@ -1,0 +1,13 @@
+body{
+	background-image:url("lock.jpeg")
+}
+h1{
+border-color:blue;
+color:#ffffff}
+h2{
+	margin:20px 40px 20px 40px;
+}
+a:link{color:red;text-decoration:none;}
+a:visted{color:brown;text-decoration:none;background-color:pink}
+a:hover{color:green;text-decoration:underline;}
+a:active{color:red;text-decoration:none;background-color:black}
